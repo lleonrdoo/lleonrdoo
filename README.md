@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A mathematics undergraduate student in Udayana University, Bali.
-  I'm passionate in Data Field and Programming</h3>
+  I'm learning in Data Field, Machine Learning and Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lleonrdoo&label=Profile%20views&color=0e75b6&style=flat" alt="lleonrdoo" /> </p>
 
